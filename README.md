@@ -1,1 +1,3 @@
 # Face-Recognition
+
+## HAAR-CASCADE FACE DETECTION ALGORITHM
